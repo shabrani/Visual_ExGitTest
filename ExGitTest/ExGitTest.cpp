@@ -12,6 +12,7 @@ int main()
 	printf("Earth is mine.\n");
 	printf("World is GitHub.\n");
 	printf("Earth on Local repository.\n");
+	printf("Luna on GitHub.\n");
 
     return 0;
 }
